@@ -1,0 +1,2 @@
+Crear una clase .titulosecundario que inicialice el borde superior e inferior con ancho de 2 pixeles y los bordes laterales con cero pixel.
+ A su elección queda el estilo y color

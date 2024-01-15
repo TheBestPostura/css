@@ -1,0 +1,15 @@
+.titulosecundario{
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-top-width: 2px;
+    border-top-style: dashed;
+
+    border-bottom-width: 2px;
+    border-bottom-style: dashed;
+
+    border-right-width: 0px;
+    border-right-style: solid;
+
+    border-left-width: 0px;
+    border-left-style: solid;
+}

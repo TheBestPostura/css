@@ -1,0 +1,7 @@
+Inicializar los elementos HTML h1,h2 y h3 con bordes de 2 pixeles, color azul y diferentes estilos para cada uno. Crear una página HTML que los utilice.
+Ej:
+h1 {
+  border-width:2px;
+  border-style:solid;
+  border-color:#0000ff;
+}
